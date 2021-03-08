@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Pronouns: He/him/his
+- 🔭 I’m currently working on: ProjectViewer, my React Native project.  I'll be working on it throughout the school year into next summer as I continue to learn more about React.  I will also be working on projects for an upcoming "Packhacks Hackathon".
+- 🌱 I’m currently learning Java and C from my classwork, and React on my own!  I may also use python for projects, but I am learning mainly React on my own.
+- 📫 How to reach me: My personal email, bennettclapp@gmail.com.  I check my email maybe a little too much, so I'll be quick to reply.
+- 👯 I'm looking to collaborate on: Anything!  Message me if you're interested in working on something together, I'm always open to new projects.
