@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Pronouns: He/him/his
-- 🔭 I’m currently working on: Stock Displayer, a dynamic React webpage that tracks the prices of stocks.  I'll be working on it throughout the year as I continue to learn more about React.  I will also be working on miscellaneous projects in Java and python.
-- 🌱 I’m currently learning: Java and C from my classwork, and React on my own!  I may also use python for projects, but I am learning mainly React on my own.
+- 🔭 I’m currently looking for: New Grad Software Engineer positions in Charlotte or Raleigh.  I'm interested the most in Java programming, but I'm applying to positions with C and Python as well, since I have experience from classwork.
+- 🌱 I’m currently learning: I've been using Java in my coursework and previous internships.  I've been continuing to learn Python as well, which I used heavily in my recent data science class.  While I've been learning Javascript on my own, I've decided to focus on Java, C, and Python.
 - 📫 How to reach me: My personal email, bennettclapp@gmail.com.
