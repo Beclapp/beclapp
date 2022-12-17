@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Pronouns: He/him/his
-- 🔭 I’m currently looking for: New Grad Software Engineer positions in Charlotte or Raleigh.  I'm interested the most in Java programming, but I'm applying to positions with C and Python as well, since I have experience from classwork.
+- 🔭 I’m currently looking for: New Grad Software Engineer positions in Charlotte or Raleigh.  I'm interested the most in Java programming, but I'm applying to positions with C and Python as well, since I have experience from classwork.  I'm also interested in C++ programming, and will likely commit some time in the next few months to learning it further!
 - 🌱 I’m currently learning: I've been using Java in my coursework and previous internships.  I've been continuing to learn Python as well, which I used heavily in my recent data science class.  While I've been learning Javascript on my own, I've decided to focus on Java, C, and Python.
 - 📫 How to reach me: My personal email, bennettclapp@gmail.com.
